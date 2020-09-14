@@ -1,3 +1,4 @@
+[![Lukumiya's github stats](https://github-readme-stats.vercel.app/api?username=Lukumiya)](https://github.com/Lukumiya)
 ```
                           :hhyy/yhhhhhhhhyysss+oyhhhhhyyyhhso+//+++syo:.       ``.:+o++ososso`      
                           :hy.``.yhhys+++++oosyyyddhhhhhhds+/////////+oss+--:+shhyyyyyyoshh++`      
